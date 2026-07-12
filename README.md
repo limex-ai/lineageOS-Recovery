@@ -9,7 +9,7 @@
   <p><b>Lineage Recovery Platform</b></p>
 </div>
 
-[![Release](https://img.shields.io/github/v/release/UralRedux/LRP?label=Release&color=blue&logo=github)]([https://github.com/UralRedux/LRP/releases/latest](https://github.com/limex-ai/lineageOS-Recovery/releases/tag/1.1.0))
+[![Release](https://img.shields.io/github/v/release/limex-ai/lineageOS-Recovery?label=Release&color=blue&logo=github)](https://github.com/limex-ai/lineageOS-Recovery/releases/latest)
 ![Platform](https://img.shields.io/badge/Platform-Web-success)
 ![Node.js](https://img.shields.io/badge/Node.js-20+-green?logo=node.js)
 ![License](https://img.shields.io/badge/License-MIT-orange)
