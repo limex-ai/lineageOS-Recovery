@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="./logo.png" width="170" alt="LRP Logo">
+  <img src="./banner.jpg" width="170" alt="LRP Logo">
   <h1>LRP</h1>
   <p><b>Lineage Recovery Platform</b></p>
 </div>
